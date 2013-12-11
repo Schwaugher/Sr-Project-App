@@ -1,0 +1,9 @@
+
+ycheng Yi Cheng 1 3 Accessories_for_Smart_Phones
+tlin Tim Lin 1 19 RFID,_Cloud_Computing,_Electric_Vehicle
+rchandra Rajan Chandra 1 8 FPGA,_Arm_Cortex
+jkang James Kang 1 6 DSP,_Robotics
+bolson Brita Olson 0 4 Digital_Design
+sOldak Salomon Oldak 0 4 Controls_and_Robotics
+myin Meng-Lai Yin 1 5 Kinect
+pnelson Phyllis Nelson 1 15 Something_I_dont_know
