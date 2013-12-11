@@ -1,3 +1,6 @@
+//#ifndef __ADREG__
+//#define __ADREG__
+
 #pragma once
 
 #include <string>
@@ -11,3 +14,5 @@ public:
 	string under2space(string);
 	void Write(string, string, string, bool, string, int);
 };
+
+//#endif
